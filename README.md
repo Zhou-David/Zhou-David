@@ -2,7 +2,7 @@
 - 👀 I’m a student in HUST
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, vx:fengyunxiaoweiDW
+- 📫 How to reach me, vx: fengyunxiaoweiDW
 
 <!---
 Zhou-David/Zhou-David is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
